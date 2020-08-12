@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "email": "alex@gmail.com",
+      "password": "$2a$10$ivOHeqZevDOiT/tzfOy3ou0yyhZ2gklqVTdrbJvff4GHU5L1Sfqx2",
+      "firstName": "Alex",
+      "lastName": "Gr",
+      "photo": "https://images.pexels.com/photos/573299/pexels-photo-573299.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=800",
+      "id": 1
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "Alex",
+      "lastName": "Grigoryan",
+      "email": "ewfew@dsf.com",
+      "phone": "111111111119900",
+      "photo": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=800"
+    },
+    {
+      "id": 2,
+      "firstName": "John",
+      "lastName": "Black",
+      "email": "asd@mail.ru",
+      "phone": "444444444",
+      "photo": "https://images.pexels.com/photos/2380795/pexels-photo-2380795.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=800"
+    },
+    {
+      "id": 3,
+      "firstName": "Billy",
+      "lastName": "Milligan",
+      "email": "asd@mail.ru",
+      "phone": "231232231",
+      "photo": "https://images.pexels.com/photos/2128819/pexels-photo-2128819.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=800"
+    },
+    {
+      "id": 4,
+      "firstName": "Alice",
+      "lastName": "Brouk",
+      "email": "asd@mail.ru",
+      "phone": "555555555999",
+      "photo": "https://images.pexels.com/photos/2128818/pexels-photo-2128818.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=800"
+    },
+    {
+      "id": 5,
+      "firstName": "Bradley",
+      "lastName": "Cooper",
+      "email": "asd@mail.ru",
+      "phone": "44545454",
+      "photo": "https://images.pexels.com/photos/2117283/pexels-photo-2117283.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=800"
+    },
+    {
+      "id": 6,
+      "firstName": "Lady",
+      "lastName": "Gaga",
+      "email": "asd@mail.ru",
+      "phone": "4999999444",
+      "photo": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=800"
+    }
+  ]
+}
